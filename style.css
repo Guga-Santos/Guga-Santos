@@ -1,0 +1,125 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('https://wallpaperaccess.com/full/3052460.jpg');
+  background-size: 1280px 700px;
+
+}
+
+#title  {
+  font-family: 'MinecraftiaRegular';
+  font-weight: bold;
+  font-style: normal;
+  color: white;
+  text-shadow:black 2px 2px 2px;
+}
+
+.input-color {
+  display: inline-block;
+}
+
+
+/* https://www.w3schools.com/cssref/playit.asp?filename=playcss_display&preval=flex */
+.color {
+  border: black dashed 1px;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+#black {
+  background-color: rgb(0, 0, 0);
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#pixel-board {
+  width: 300px;
+  height: 300px;
+  display: grid;
+  border: 4px dashed black;
+  /* grid-template-rows: repeat(5, 1fr);
+  grid-template-columns: repeat(5, 1fr); */
+}
+
+#color-palette {
+  width: 300px;
+}
+
+.color {
+  width: 69px;
+}
+
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/repeat() */
+
+/* https://developer.mozilla.org/pt-BR/docs/Web/CSS
+/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout#a_unidade_fr */
+
+/* https://www.w3schools.com/cssref/tryit.asp?filename=trycss_grid-template-columns */
+.pixel {
+  background-color: grey;
+  border: 1px black solid;
+}
+
+.buttonDiv {
+  width: 300px;
+  height: 50px;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 10px;
+}
+
+.button {
+  width: 50%;
+  height: 40px;
+  border: 3px solid black;
+  box-shadow: black 2px 2px 2px;
+  font-family: 'MinecraftiaRegular';
+  font-weight: 400;
+}
+
+.button:hover {
+  cursor: pointer;
+  height: 45px;
+  border-radius: 5px;
+  font-size: 105%;
+  box-shadow: black 0px 0px 0px;
+}
+
+#board-size {
+  display: inline-block;
+  width: 23%;
+  height: 32px;
+ 
+}
+
+#generate-board {
+  width: 20%;
+  border: 3px solid black;
+  color: rgb(26, 2, 2);
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: black 2px 2px 2px;
+  font-family: 'MinecraftiaRegular' ;
+}
+
+#generate-board:hover {
+  box-shadow: black 0px 0px 0px;
+}

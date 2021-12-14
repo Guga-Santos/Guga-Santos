@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pixel Art</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/minecraftia" type="text/css"/>
+</head>
+<body>
+    <h1 id="title">PIXEL ART</h1>
+    <div id='color-palette'>
+        <div class='color' id="black"></div>
+        <div class='color' id="blue"></div>
+        <div class='color' id="red"></div>
+        <div class='color' id="yellow"></div>
+    </div>
+    <!-- <div id="input-color-container">
+        <input class="input-color" id="color1" type="color" >
+        <input class="input-color" id="color2" type="color" >
+        <input class="input-color" id="color3" type="color" >
+        <input class="input-color" id="color4" type="color" >
+    </div> -->
+    <div id="pixel-board">
+    </div>
+    <div class="buttonDiv">
+        <button class="button" id="clear-board" >Limpar</button>
+        <input class="button" id="board-size" type="number" min="1" value="10">
+        <button class="button" id="generate-board" onclick="changeValue()">VQV</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
