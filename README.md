@@ -15,7 +15,7 @@
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guga-React" height="30" width="40" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667">
-    <img align="center" alt="Guga-React" height="30" width="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
+    <img align="center" alt="Guga-React" height="30" width="30" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
   <img align="right" alt="Icone" height="112" width="150" src= "https://i.pinimg.com/originals/f7/46/fc/f746fccce17d810554a5d40ce7a985f5.gif">
   </div>
     
