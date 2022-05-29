@@ -61,13 +61,13 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
   <tr>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/fortinite-app-full">Fortnite-Stats</a></h2>
-      <a href="https://guga-santos.github.io/fortnite-app/"><img width="450px" src="./Fortnite.png" alt="Fortnite site img" /></a>
+      <a href="https://guga-santos.github.io/fortnite-app/"><img width="470px" src="./Fortnite.png" alt="Fortnite site img" /></a>
       <br>
       <br>
     </td>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/shopping-cart">Shopping-Cart</a></h2>
-      <a href="https://guga-santos.github.io/shopping-cart/"><img width="450px" src="./Shopping-Cart.png" alt="Shopping Cart site img" /></a>
+      <a href="https://guga-santos.github.io/shopping-cart/"><img width="470px" src="./Shopping-Cart.png" alt="Shopping Cart site img" /></a>
       <br>
       <br>
     </td>
@@ -75,13 +75,13 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
   <tr>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/StarWars">StarWars Planets</a></h2>
-      <a href="https://guga-santos.github.io/StarWars/"><img width="450px" src="./Startwars.png" alt="StarWars site img" /></a>
+      <a href="https://guga-santos.github.io/StarWars/"><img width="470px" src="./Startwars.png" alt="StarWars site img" /></a>
       <br>
       <br>
     </td>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/TrybeWallet">Trybe Wallet</a></h2>
-      <a href="https://guga-santos.github.io/TrybeWallet/"><img width="450px" src="./TrybeWallet.png" alt="TrybeWallet site img" /></a>
+      <a href="https://guga-santos.github.io/TrybeWallet/"><img width="470px" src="./TrybeWallet.png" alt="TrybeWallet site img" /></a>
       <br>
       <br>
     </td>
@@ -89,7 +89,7 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
   <tr>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/SpotiTry">SpotiTrybe</a></h2>
-      <a href="https://guga-santos.github.io/SpotiTry/" target="_blank"><img width="100%" src="./Spotitry.png" alt="SpotiTrybe site img" /></a>
+      <a href="https://guga-santos.github.io/SpotiTry/" target="_blank"><img width="470px" src="./Spotitry.png" alt="SpotiTrybe site img" /></a>
       <br>
       <br>
     </td>
