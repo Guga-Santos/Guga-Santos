@@ -39,7 +39,7 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-stats.vercel.app/api?username=Guga-Santos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guga-Santos's GitHub stats" /></a>
-<img align="right" width="350px" alt="manufacturetocat" src="https://octodex.github.com/images/manufacturetocat.png" />
+<img align="right" width="250px" alt="manufacturetocat" src="https://octodex.github.com/images/manufacturetocat.png" />
 
 
 <a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guga-Santos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
