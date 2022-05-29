@@ -55,6 +55,48 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 
 <a href="https://github.com/Guga-Santos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-Santos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<h1 align="center">Some Projects</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="500px">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/fortinite-app-full">Fortnite-Stats</a></h2>
+      <a href="https://guga-santos.github.io/fortnite-app/"><img width="450px" src="./Fortnite.png" alt="Fortnite site img" /></a>
+      <br>
+      <br>
+    </td>
+    <td valign="top" width="500px">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/shopping-cart">Shopping-Cart</a></h2>
+      <a href="https://guga-santos.github.io/shopping-cart/"><img width="450px" src="./Shopping-Cart.png" alt="Shopping Cart site img" /></a>
+      <br>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="500px">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/StarWars">StarWars Planets</a></h2>
+      <a href="https://guga-santos.github.io/StarWars/"><img width="450px" src="./Startwars.png" alt="StarWars site img" /></a>
+      <br>
+      <br>
+    </td>
+    <td valign="top" width="500px">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/TrybeWallet">Trybe Wallet</a></h2>
+      <a href="https://guga-santos.github.io/TrybeWallet/"><img width="450px" src="./TrybeWallet.png" alt="TrybeWallet site img" /></a>
+      <br>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="500px">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/SpotiTry">To-Do List</a></h2>
+      <a href="https://guga-santos.github.io/SpotiTry/"><img width="100%" src="./Spotitry.png" alt="SpotiTrybe site img" /></a>
+      <br>
+      <br>
+    </td>
+  </tr>
+</table>
+<br>
+
 ### Trophies
 
 <a href="https://github.com/Guga-Santos" align="left"><img src="https://github-profile-trophy.vercel.app/?username=guga-santos&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /></a>
