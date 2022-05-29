@@ -88,8 +88,8 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
   </tr>
   <tr>
     <td valign="top" width="500px">
-      <h2 align="center"><a href="https://github.com/Guga-Santos/SpotiTry">To-Do List</a></h2>
-      <a href="https://guga-santos.github.io/SpotiTry/"><img width="100%" src="./Spotitry.png" alt="SpotiTrybe site img" /></a>
+      <h2 align="center"><a href="https://github.com/Guga-Santos/SpotiTry">SpotiTrybe</a></h2>
+      <a href="https://guga-santos.github.io/SpotiTry/" target="_blank"><img width="100%" src="./Spotitry.png" alt="SpotiTrybe site img" /></a>
       <br>
       <br>
     </td>
