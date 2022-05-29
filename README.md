@@ -15,9 +15,7 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 * ⚡  I can learn fast if you teach me slowly!
 
 ----------------------------------------------------
-PREVIEW
-MARKDOWN
-COPY
+
 ### Skills
 
 <p align="left">
