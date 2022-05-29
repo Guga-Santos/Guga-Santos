@@ -10,8 +10,8 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 
 * 🌍  I'm based in Pernambuco - Brazil.
 * ✉️  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
-* 🧠  I'm learning Docker and mySQL now and diving into ReactJS.
-* 🤝  I'm open to collaborating on all kind of Projects!
+* 🧠  Learning Docker and mySQL now and diving into ReactJS.
+* 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
 
 ----------------------------------------------------
