@@ -9,10 +9,11 @@ I'm a Front-End developer and students at Trybe.Inc.
 I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I've been studying programming for the last 1 year and i'm in love with it!
 
 * 🌍  I'm based in Pernambuco - Brazil.
-* ✉️  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
+* :email:  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
 * 🧠  Learning Docker and mySQL now and diving into ReactJS.
 * 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
+* :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
 
 ----------------------------------------------------
 
@@ -53,6 +54,10 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 
 
 <a href="https://github.com/Guga-Santos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-Santos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Trophies
+
+<a href="https://github.com/Guga-Santos" align="left"><img src="https://github-profile-trophy.vercel.app/?username=guga-santos&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /></a>
 
 
 
