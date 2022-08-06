@@ -74,7 +74,7 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
   </tr>
   <tr>
     <td valign="top" width="500px">
-      <h2 align="center"><a href="https://github.com/Guga-Santos/StarWars">StarWars Planets</a></h2>
+      <h2 align="center"><a href="https://github.com/Guga-Santos/Starwars-search-trybe">StarWars Planets</a></h2>
       <a href="https://guga-santos.github.io/StarWars/"><img width="470px" src="./Startwars.png" alt="StarWars site img" /></a>
       <br>
       <br>
