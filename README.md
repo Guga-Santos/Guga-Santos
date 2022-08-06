@@ -80,7 +80,7 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
       <br>
     </td>
     <td valign="top" width="500px">
-      <h2 align="center"><a href="https://github.com/Guga-Santos/TrybeWallet">Trybe Wallet</a></h2>
+      <h2 align="center"><a href="https://github.com/Guga-Santos/TrybeWallet-app">Trybe Wallet</a></h2>
       <a href="https://guga-santos.github.io/TrybeWallet/"><img width="470px" src="./TrybeWallet.png" alt="TrybeWallet site img" /></a>
       <br>
       <br>
