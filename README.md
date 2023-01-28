@@ -3,14 +3,14 @@
 Hi 👋 My name is Gustavo Santos!
 ================================
 
-I'm a Front-End developer and students at Trybe.Inc.
+I'm a Software Engineer.
 ----------------------------------------------------
 
-I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I've been studying programming for the last 1 year and i'm in love with it!
+I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I've been studying programming for more than one year and i'm in love with it!
 
 * 🌍  I'm based in Pernambuco - Brazil.
 * :email:  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
-* 🧠  Learning Docker and mySQL now and diving into ReactJS.
+* 🧠  Now a days i'm studing design patterns and software design and archtecture.
 * 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
 * :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
