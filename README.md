@@ -107,4 +107,3 @@ I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I
 ### Trophies
 
 <a href="https://github.com/Guga-Santos" align="left"><img src="https://github-profile-trophy.vercel.app/?username=guga-santos&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" /></a>
-
