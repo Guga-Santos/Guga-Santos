@@ -6,11 +6,15 @@ Hi 👋 My name is Gustavo Santos!
 I'm a Software Engineer.
 ----------------------------------------------------
 
-I worked for 12 years in hostelry industry and i'm in a switching carrer mode. I've been studying programming for more than one year and i'm in love with it!
+WasUp!!! I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in TypeScript and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.
+
+In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing Fortnite. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.
+
+If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!
 
 * 🌍  I'm based in Pernambuco - Brazil.
 * :email:  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
-* 🧠  Now a days i'm studing design patterns and software design and archtecture.
+* 🧠  Now i'm doing a imersive training with Erick Wendel called JSExperts.
 * 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
 * :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
