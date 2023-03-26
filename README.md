@@ -14,7 +14,7 @@ If you're interested in collaborating on a project or just want to chat about th
 
 * 🌍  I'm based in Pernambuco - Brazil.
 * :email:  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
-* 🧠  Right Now i'm doing a imersive training with Erick Wendel called JSExperts.
+* 🧠  Right Now i'm on an imersive training with Erick Wendel called JSExperts.
 * 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
 * :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
