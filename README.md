@@ -1,6 +1,6 @@
 <img width="400px" align="right" alt="Octocat" src="https://octodex.github.com/images/Fintechtocat.png" />
 
-Hi 👋 My name is Gustavo Santos!
+Wasup! :v: My name is Gustavo Santos!
 ================================
 
 I'm a Software Engineer.
