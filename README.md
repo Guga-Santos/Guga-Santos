@@ -6,7 +6,7 @@ Wasup! :v: My name is Gustavo Santos!
 I'm a Software Engineer.
 ----------------------------------------------------
 
-WasUp!!! I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in TypeScript and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.
+I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in TypeScript and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.
 
 In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing Fortnite. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.
 
