@@ -56,7 +56,7 @@ If you're interested in collaborating on a project or just want to chat about th
 
 
 
-### Socials
+### My Socials
 
 <p align="left"> <a href="https://www.github.com/Guga-Santos" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/github.png" width="35" height="35" /></a> <a href="http://www.instagram.com/guga_marahu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gugasantos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19012180/gustavo-santos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GugaSantos20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
