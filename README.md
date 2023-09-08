@@ -67,7 +67,7 @@ If you're interested in collaborating on a project or just want to chat about th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-stats.vercel.app/api?username=Guga-Santos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guga-Santos's GitHub stats" width="400px" /></a>
+<a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-stats.vercel.app/api?username=Guga-Santos&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guga-Santos's GitHub stats" width="400px" /></a>
 <img align="right" width="370px" right="50px" alt="manufacturetocat" src="https://octodex.github.com/images/manufacturetocat.png" />
 
 
