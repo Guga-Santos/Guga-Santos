@@ -6,7 +6,7 @@ Wasup! :v: I am Gustavo Santos!!
 I'm a Software Engineer.
 ----------------------------------------------------
 
-I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in TypeScript and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.
+I'm a freelancer software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in TypeScript and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.
 
 In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing Fortnite. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.
 
@@ -14,7 +14,9 @@ If you're interested in collaborating on a project or just want to chat about th
 
 * 🌍  I'm based in Pernambuco - Brazil.
 * :email:  You can contact me at [guga.santos.guga@gmail.com](mailto:guga.santos.guga@gmail.com)
-* 🧠  Right Now i'm on an imersive training with Erick Wendel called JSExperts!
+* 🧠  Right Now i'm on an imersive NodeJS training with Erick Wendel called JSExperts!
+* 🎓 Currently in my first year of college studying system analysis and development.
+* 🚀 Also, I'm participating in a Java acceleration program at Trybe.Inc.
 * 🤝  Open to collaborating on all kind of Projects!
 * ⚡  I can learn fast if you teach me slowly!
 * :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
@@ -30,6 +32,7 @@ If you're interested in collaborating on a project or just want to chat about th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
@@ -70,7 +73,9 @@ If you're interested in collaborating on a project or just want to chat about th
 
 <a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guga-Santos&stroke=ffffff&background=1c1917&ring=0891b2&fire=ffff00&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="400px" /></a>
 
-<h1 align="center">Some Projects</h1>
+<a href="http://www.github.com/Guga-Santos"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga-Santos&layout=donut&exclude_repo=Trybe_Exercicios&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /> </a>
+
+<h1 align="center">Some Personal Projects</h1>
 
 <table>
   <tr>
