@@ -79,6 +79,15 @@ If you're interested in collaborating on a project or just want to chat about th
 
 <table>
   <tr>
+     <td valign="top" colspan="2">
+      <h2 align="center"><a href="https://github.com/Guga-Santos/Trying_Charts">ESG Simplify</a></h2>
+      <a href="https://esg-simplify-demo.vercel.app/"><img width="940px" src="./ESGSimplify.png" alt="ESGSIMPLIFY site img" /></a>
+      <br>
+       <a href="https://github.com/Guga-Santos/ESG_STAMPS_APP_BACKEND">BACKEND</a> <a href="https://github.com/Guga-Santos/Trying_Charts">FRONTEND</a>
+      <br>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="500px">
       <h2 align="center"><a href="https://github.com/Guga-Santos/fortinite-app-full">Fortnite-Stats</a></h2>
       <a href="https://guga-santos.github.io/fortnite-app/"><img width="470px" src="./Fortnite.png" alt="Fortnite site img" /></a>
