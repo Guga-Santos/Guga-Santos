@@ -93,7 +93,7 @@ If you're interested in collaborating on a project or just want to chat about th
     <td>
       <a href="https://github.com/Guga-Santos/Trying_Charts">ESG Simplify - FRONTEND</a>
     </td>
-  </tr>tr>
+  </tr>
    <tr>
     <td></td>
     <td></td>
