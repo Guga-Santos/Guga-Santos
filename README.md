@@ -21,6 +21,11 @@ If you're interested in collaborating on a project or just want to chat about th
 * ⚡  I can learn fast if you teach me slowly!
 * :octocat: Follow me on LinkedIn: https://www.linkedin.com/in/gugasantos/
 
+<br>
+<br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/GugaSantos.png" alt="TryHackMe">
+
 ----------------------------------------------------
 
 ### Skills
