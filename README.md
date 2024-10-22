@@ -24,8 +24,7 @@ If you're interested in collaborating on a project or just want to chat about th
 <br>
 <br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/GugaSantos.png" alt="TryHackMe">
-![tryhackme stats](https://raw.githubusercontent.com/Guga-Santos/Guga-Santos/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x54C1.png" alt="Your Image Badge" />
 
 ----------------------------------------------------
 
