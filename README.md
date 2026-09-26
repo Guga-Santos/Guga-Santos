@@ -13,7 +13,7 @@ In my free time, you'll find me tinkering with new tech gadgets, attending hacka
 If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!
 
 * 🌍  I'm based in Pernambuco - Brazil.
-* :email:  You can contact me at [gugasantos.dev@gmail.com](mailto:gugasantos.dev@gmail.com)
+* :email:  You can contact me at [0xgugasantos@gmail.com](mailto:0xgugasantos@gmail.com)
 * 🧠  Right Now i'm on an imersive NodeJS training with Erick Wendel called JSExperts!
 * 🎓 Currently in my first year of college studying system analysis and development.
 * 🚀 Also, I'm participating in a Java acceleration program at Trybe.Inc.
